@@ -1,12 +1,7 @@
 SHS Geronimo
 ============
 
-[![GPLv3](https://img.shields.io/badge/license-GPLv3-blue.png)](https://github.com/shs-geronimo/shs-geronimo/blob/master/LICENSE)
-![GitHub build](https://img.shields.io/github/workflow/status/shs-geronimo/shs-geronimo.github.io/Build%20site%20and%20check%20output)
-
-
-This is the website for the
-[SHS Geronimo](https://www.shs-geronimo.org).
+This is the former website for SHS Geronimo.
 
 
 Building the site
@@ -19,7 +14,7 @@ build the website and put it in the master branch.
 Installing cactus
 -----------------
 
-This site uses [Cactus](https://github.com/eudicots/Cactus) to build.
+This site uses Cactus to build.
 
 Cactus is a Python program, so Python 2.7 is required.
 Also pip is used to install cactus.
